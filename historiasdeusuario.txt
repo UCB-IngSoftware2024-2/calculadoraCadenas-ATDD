@@ -1,0 +1,10 @@
+- realizar el calculo de una operacion(Ingresar comando, Mostrar resultado)
+
+Como estudiante de primaria
+Quiero poder realizar el calculo de una operacion
+Para facilitarme al realizar el calculo manualmente
+Criterios de confirmacion
+- Cuando ingreso una cadena con la operacion y presiono el boton calcular se deberia mostrar el resultado
+- Cuando no se ingresa nada en la operacion y se presiona el boton calcular se deberia mostrar 0 como resultado
+
+
